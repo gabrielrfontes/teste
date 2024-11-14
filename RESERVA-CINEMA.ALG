@@ -27,7 +27,7 @@ inicio
          b[a]<- 20
           escreval("Cadeira B", a, " RESERVADA!")
       senao
-         escreval("Assento INDISPONÍVEL!")
+         escreval("Assento INDISPONÃVEL!")
       fimse
       escreva("Deseja fazer outra reserva?[S/N] ")
       leia(r)
